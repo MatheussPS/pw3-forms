@@ -1,0 +1,13 @@
+.container-form, .content-input{
+  display: flex;
+  flex-direction: column;
+}
+
+.content-input{
+  margin: 0 0 2em 0;
+}
+
+input{
+  margin-left: .5em;
+  width: 10%;
+}
